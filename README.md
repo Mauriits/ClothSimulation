@@ -1,3 +1,3 @@
 # ClothSimulation
 
-!(https://raw.githubusercontent.com/Mauriits/ClothSimulation/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/Mauriits/ClothSimulation/master/screenshot.png)
