@@ -1,0 +1,30 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     6061 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.014 seconds
+Platform assembly: D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Maurits\Documenten\Universiteit\Master\Game Physics\Mini project\deliverables\Cloth Simulation_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.629014 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1ab4 -> priority: 1 
+  Thread -> id: ca4 -> priority: 1 
